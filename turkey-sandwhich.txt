@@ -1,0 +1,12 @@
+Ingredients:
+ - 2 slices of turkey breast
+ - 2 slices of bread
+ - 1 slice provolone cheese
+ - 1/4 cup mayonnaise
+
+Directions:
+  1. Place both slices of turkey breast to one slice of bread.
+  2. Place the slice of provolone cheese on top of the turkey breast.
+  3. Apply thin layer of mayonnaise onto other slice of bread.
+  4. Combine both slices of bread so that the mayonnaise is directly
+     on top of the provolone cheese.
